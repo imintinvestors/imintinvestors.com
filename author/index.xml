@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Imint Investors</title>
+    <link>//imintinvestors.com/author/</link>
+    <description>Recent content in Authors on Imint Investors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2017 21:18:00 +0200</lastBuildDate>
+    
+	<atom:link href="//imintinvestors.com/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alex DS</title>
+      <link>//imintinvestors.com/author/alex-ds/</link>
+      <pubDate>Fri, 29 Sep 2017 21:18:00 +0200</pubDate>
+      
+      <guid>//imintinvestors.com/author/alex-ds/</guid>
+      <description>Alex is a smaller Imint share holder with no other ties to the company. He has a decade of experience in the telecom industry and currently he is studying crisis management analysis.</description>
+    </item>
+    
+    <item>
+      <title>Mr IMINT</title>
+      <link>//imintinvestors.com/author/mr-imint/</link>
+      <pubDate>Tue, 12 Sep 2017 15:40:00 +0200</pubDate>
+      
+      <guid>//imintinvestors.com/author/mr-imint/</guid>
+      <description>Mr. IMINT is a small shareholder of Imint AB. He lives in Oslo, Norway, and has no current or prior connection to Imint AB. Mr. IMINT was probably the first to find proof about Huawei being the first smartphone customer of Vidhance products (source), which led to Imint AB disclosing the customer.
+Mr. IMINT still does a lot of analysis of smartphone firmware&amp;rsquo;s that might be related to Imint AB, but is also interested in all other aspects of Imint AB.</description>
+    </item>
+    
+    <item>
+      <title>Simon Mika</title>
+      <link>//imintinvestors.com/author/simon-mika/</link>
+      <pubDate>Wed, 06 Sep 2017 22:39:00 +0200</pubDate>
+      
+      <guid>//imintinvestors.com/author/simon-mika/</guid>
+      <description>Simon was the first non-founder employee of Imint and once the CTO of Imint and played a cruicial role in moving company towards the smartphone and consumer market. As of February 2016 he is no longer part of the company. Currently he is one of the ten biggest shareholders.</description>
+    </item>
+    
+  </channel>
+</rss>
