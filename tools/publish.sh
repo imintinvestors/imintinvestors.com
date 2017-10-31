@@ -3,7 +3,7 @@ if [ ! -d "public/.git" ]; then
 	git clone --depth 1 --single-branch https://github.com/imintinvestors/imintinvestors.com -b gh-pages public
 fi
 rm -rf public/*
-hugo
+hugo -F
 pushd public
 git add -A
 git commit -m "$1"

@@ -7,7 +7,7 @@
 {{ partial "article" (dict "article" . "mode" "body") }}
 {{ end }}
 {{ else }}
-{{ range first 5 (where .Site.Pages "Section" .Site.Params.FrontPageSection) }}
+{{ range first 5 (where (where .Site.Pages "Section" .Site.Params.FrontPageSection) "Date" "<=" now) }}
 {{ partial "article" (dict "article" . "mode" "header") }}
 {{ end }}
 {{ end }}
