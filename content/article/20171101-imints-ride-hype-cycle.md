@@ -1,5 +1,5 @@
 ---
-date: 2017-11-01T10:00:00+02:00
+date: 2017-11-01T90:00:00+02:00
 title: Imint's Ride on the Hype Cycle
 author: Simon Mika
 ---
