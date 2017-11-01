@@ -56,7 +56,7 @@ As the number of phone models with Vidhance Video Stabilization increases and th
 
 > Video stabilization will be almost as widespread as smartphones.
 
-It does not require any special predictive powers to assume that video stabilization will soon be almost as widespread as cameras are on phones. That widespread adoption will eventually be followed by the maturing of the technology and price competition. While Video Stabilization probably for quite some years will be an important revenue stream for Imint they are already preparing new technology that is ready to take a ride on the hype cycle. Early adoption of Auto Zoom has already begun but we are still waiting for the big hype to take of. Imint seams fixed on continue to innovating how we consumers create and produce videos.
+It does not require any special predictive powers to assume that video stabilization will soon be almost as widespread as cameras are on phones. That widespread adoption will eventually be followed by the maturing of the technology and price competition. While Video Stabilization probably for quite some years will be an important revenue stream for Imint they are already preparing new technology that is ready to take a ride on the hype cycle. Early adoption of Auto Zoom has already begun but we are still waiting for the big hype to take of. Imint seems fixed on continue to innovating how we consumers create and produce videos.
 
 # Other Companies
 
@@ -72,6 +72,6 @@ Today Fingerprint has saturated its market and the competitors have in many ways
 
 ## Crunchfish
 
-Crunchfish used to build hand gesture identification software for smartphones. Oppo was one of their early adopters. As it turned out that the consumer value they added to a phone was probably to small for device makers to bother integrating and paying for it they instead _jumped on the virtual reality hype_. Hand gestures in virtual reality was the hype cycle they rode to the the stock market. The problem with VR seams to be that the Trough of Disillusionment can be long as we try to figure out what we should be using this wonderful technology for in real life.
+Crunchfish used to build hand gesture identification software for smartphones. Oppo was one of their early adopters. As it turned out that the consumer value they added to a phone was probably to small for device makers to bother integrating and paying for it they instead _jumped on the virtual reality hype_. Hand gestures in virtual reality was the hype cycle they rode to the the stock market. The problem with VR seems to be that the Trough of Disillusionment can be long as we try to figure out what we should be using this wonderful technology for in real life.
 
-Crunchfish solution to this seams to be _jump on another hype cycle_ by instead building technology for payments.
+Crunchfish solution to this seems to be _jump on another hype cycle_ by instead building technology for payments.
