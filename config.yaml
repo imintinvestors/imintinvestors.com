@@ -31,3 +31,6 @@ menu:
     - name: "Customers"
       weight: 20
       URL: "/customer"
+    - name: "Press"
+      weight: 30
+      URL: "/press"
