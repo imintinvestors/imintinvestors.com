@@ -13,5 +13,11 @@
 	"editor.wordWrap": "off",
 
 	// When enabled, will trim trailing whitespace when you save a file.
-	"files.trimTrailingWhitespace": true
+	"files.trimTrailingWhitespace": true,
+	"spellright.language": "en_US",
+	"spellright.documentTypes": [
+		"markdown",
+		"latex",
+		"plaintext"
+	]
 }
