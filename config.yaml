@@ -11,6 +11,7 @@ params:
     - "css/color.css"
     - "css/layout.css"
     - "css/form.css"
+    - "css/image.css"
     - "css/blockquotes.css"
     - "css/subscribe.css"
     - "css/customer.css"
