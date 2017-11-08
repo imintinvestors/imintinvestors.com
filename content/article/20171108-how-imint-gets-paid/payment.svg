@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="payment.svg"
-   inkscape:export-filename="/home/smika/versioned/github/imintinvestors/imintinvestors.com/content/article/payment.png"
+   inkscape:export-filename="/home/smika/versioned/github/imintinvestors/imintinvestors.com/content/article/20171108-how-imint-gets-paid/payment.png"
    inkscape:export-xdpi="127.92629"
    inkscape:export-ydpi="127.92629">
   <defs
@@ -107,9 +107,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="167.02563"
-     inkscape:cy="-166.08013"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="213.33898"
+     inkscape:cy="-9.7719946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -127,7 +127,7 @@
      fit-margin-bottom="5"
      inkscape:window-width="1260"
      inkscape:window-height="1388"
-     inkscape:window-x="41"
+     inkscape:window-x="51"
      inkscape:window-y="24"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -328,6 +328,6 @@
          sodipodi:role="line"
          id="tspan10552"
          x="150"
-         y="200.3622">&gt; 55days</tspan></text>
+         y="200.3622">&lt; 55days</tspan></text>
   </g>
 </svg>
