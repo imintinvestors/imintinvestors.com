@@ -46,7 +46,7 @@ The peak was reached during the second half of 2016 heavily fueled by expectatio
 
 > Imint's growth in adoption will take it out of the current low.
 
-As always it takes more time to perfect technology then we would like and then also the adoption of it is initially slow. But when it comes to that steady growth in adoption it is what is going to take Imint out of the current local minimum. We can also observe that some of what looked like serious competitors two years ago, like Ceva and Irida Labs are no longer heard of in the field of video stabilization on smartphones. Imint on the other hand has _well filled chest covering close to another full year_ without needing any customer revevues in a situation where the actual _customer revenues grow fast quarter by quarter_.
+As always it takes more time to perfect technology then we would like and then also the adoption of it is initially slow. But when it comes to that steady growth in adoption it is what is going to take Imint out of the current local minimum. We can also observe that some of what looked like serious competitors two years ago, like Ceva and Irida Labs are no longer heard of in the field of video stabilization on smartphones. Imint on the other hand has _well filled chest covering close to another full year_ without needing any customer revenues in a situation where the actual _customer revenues grow fast quarter by quarter_.
 
 ## Slope of Enlightenment
 
