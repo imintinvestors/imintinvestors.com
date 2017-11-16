@@ -11,12 +11,17 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 * På vilket sätt kommer kommunikationen bli bättre med den nya kommunikationsplattformen?
 * Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller för att 
 
+# Marknadsföring
+* Varken Imint eller Wiko har varit särskillt aktiva med att marknadsföra AutoZoom till konsumenter och journalister. Ser ni att ni kommer att behöva ta en aktivare roll här för att skapa efterfrågan för era nyskapande produkter?
+* Är det möjligt att "låna" firmware till en Nexus 6 för att kunna skapa och publicera videos med AutoZoom?
+
 # Försäljning
 
 * Varför ser vi inte fler mindre kunder, såsom BQ, Sharp och Wiko?
 * Hur går försäljningen av AutoZoom? Kan vi förvänta oss AutoZoom hos fler kunder snart? Är intresset fortsatt stort och vad gör att det dröjer?
 * 2017 har vid flera tillfällen beskrivits som ett landgrab-år. Hur anser ni det gått så här långt med det?
 * Är telefonerna som produceras av Foxconn (FIH mobile) men säljs under varumärket Sharp inkluderade i licensavtalet med Sharp?
+* Är det någon mer kund än Wiko som ni anser vara en partner? Vad särskiljer detta partnerskap?
 
 # Produkter och roadmap
 
@@ -28,17 +33,19 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 * Hyperlapsefunktionen som visas i videon ni publicerat på Vimeo, är den redo för att hamna i en telefon? Finns det intresse för funktionen?
 * Hur har videostabiliseringen blivit bättre under året?
 
-## Auto Zoom
+## AutoZoom
+* Kommer AutoZoom i framtiden aktiveras med en enklare gest, såsom dubbeltapp, så att inte filmaren stannar upp när funktionen aktiveras?
 
-## Auto Curate
+## AutoCurate
 * Hur går det med AutoCurate? När tror ni idag att ni kan visa en fungerade lösning offentligt?
-
-
-
 
 # Tidigare annonserade projekt
 
 ## Utvecklingsavtalet från i somras
+* Tror ni fortfarande att avtalet kommer att resultera i flera telefonmodeller på marknaden innan årskiftet?
 
 ## Forskningssamarbetet med Kontigo Care
 * Hur ser forskningsamarbetet med Kontigo Care ut, hur mycket resurser har lagts/läggs på detta projekt och ser ni att detta kan bli ett väsentligt fokus i framtiden?
+* Hur sannolikt bedömmer ni att projektet leder till en större licensaffär?
+* Finns det potentiellt fler kunder inom samma segment som samma produkter kan komma att licensieras till?
+* Skapar detta projekt även direkt nytta för era mobiltelefontillverkande kunder?
