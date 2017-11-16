@@ -24,6 +24,7 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 * 2017 har vid flera tillfällen beskrivits som ett landgrab-år. Hur anser ni det gått så här långt med det?
 * Är telefonerna som produceras av Foxconn (FIH mobile) men säljs under varumärket Sharp inkluderade i licensavtalet med Sharp?
 * Är det någon mer kund än Wiko som ni anser vara en partner? Vad särskiljer detta partnerskap?
+* Efter framgångarna i China och till viss del Japan och Europa vart vänder ni blickarna nu?
 
 # Produkter och roadmap
 
