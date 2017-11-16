@@ -7,7 +7,6 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 
 # IR-kommunikation
 * Vad är tanken bakom att inte kommunicera vilka telefonmodeller som innehåller Vidhance även efter att tillverkaren har bekräftat det?
-* Varför tar det så lång tid för pressreleaser att komma upp på Imints hemsida efter att de publicerats av Cision?
 * På vilket sätt kommer kommunikationen bli bättre med den nya kommunikationsplattformen?
 * Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller är det något annat som kommer göra det lättare för er att kommunicera oftare och bättre?
 * Hur ser ni på den nuvarande aktiekursen i förhållande till emissionskursen på 79kr?
