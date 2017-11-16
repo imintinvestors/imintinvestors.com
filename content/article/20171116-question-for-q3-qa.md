@@ -6,6 +6,7 @@ author: Alex DS
 Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frågestunden. Förslag kan ges direkt på Discord-kanalen för syftet. Dokumentet uppdateras regelbundet.
 
 # IR-kommunikation
+* När kan vi förvänta oss prognoser för 2018?
 * Vad är tanken bakom att inte kommunicera vilka telefonmodeller som innehåller Vidhance även efter att tillverkaren har bekräftat det?
 * På vilket sätt kommer kommunikationen bli bättre med den nya kommunikationsplattformen?
 * Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller är det något annat som kommer göra det lättare för er att kommunicera oftare och bättre?
