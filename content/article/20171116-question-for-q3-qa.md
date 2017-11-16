@@ -11,7 +11,6 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 * Avsaknaden av prognoser idag gör det svårt för ägare som inte kan läsa och tolka de av Huawei publicerade binärfilerna och de har sämre förutsättningar på aktiemarknaden än andra ägare. Varför kan inte Imint, trots sekretessavtal, gå ut med information som ju helt bevisligen redan publicerats offentligt utan Imints medverkan?
 * På vilket sätt kommer kommunikationen bli bättre med den nya kommunikationsplattformen?
 * Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller är det något annat som kommer göra det lättare för er att kommunicera oftare och bättre?
-* Hur ställer ni er till att aktien är ned 50% under året och hur avser ni att jobba med detta?
 * Idag päverkas kursen mycket under dagen av enskilda ordrar vilket skapar oro. Överväger ni att anlita en market maker för att komma tillrätta med detta?
 * Kan vi få posten "övriga kostnader" uppbruttna i några olika kategorier såsom konsulter, resekostnader, lokaler och relaterade kostnader samt skatter och avgifter?
 
