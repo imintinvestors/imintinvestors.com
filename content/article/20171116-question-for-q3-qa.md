@@ -9,7 +9,11 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 * Vad är tanken bakom att inte kommunicera vilka telefonmodeller som innehåller Vidhance även efter att tillverkaren har bekräftat det?
 * Varför tar det så lång tid för pressreleaser att komma upp på Imints hemsida efter att de publicerats av Cision?
 * På vilket sätt kommer kommunikationen bli bättre med den nya kommunikationsplattformen?
-* Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller för att 
+* Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller är det något annat som kommer göra det lättare för er att kommunicera oftare och bättre?
+* Hur ser ni på den nuvarande aktiekursen i förhållande till emissionskursen på 79kr?
+* Hur ställer ni er till att aktien är ned 50% under året och hur avser ni att jobba med detta?
+* Idag päverkas kursen mycket under dagen av enskilda ordrar vilket skapar oro. Överväger ni att anlita en market maker för att komma tillrätta med detta?
+* Kan vi få posten "övriga kostnader" uppbruttna i några olika kategorier såsom konsulter, resekostnader, lokaler och relaterade kostnader samt skatter och avgifter?
 
 # Marknadsföring
 * Varken Imint eller Wiko har varit särskillt aktiva med att marknadsföra AutoZoom till konsumenter och journalister. Ser ni att ni kommer att behöva ta en aktivare roll här för att skapa efterfrågan för era nyskapande produkter?
@@ -35,6 +39,8 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 
 ## AutoZoom
 * Kommer AutoZoom i framtiden aktiveras med en enklare gest, såsom dubbeltapp, så att inte filmaren stannar upp när funktionen aktiveras?
+
+* Hur kommer det sig att vi ännu inte sett funktionerna "multiple targets" och "actioncam mode" i en telefon på marknaden än?
 
 ## AutoCurate
 * Hur går det med AutoCurate? När tror ni idag att ni kan visa en fungerade lösning offentligt?
