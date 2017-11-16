@@ -1,7 +1,6 @@
 ---
 date: 2017-11-16T11:13:00+02:00
 title: Frågor till Q3 frågestund
-author: Alex DS
 ---
 Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frågestunden. Förslag kan ges direkt på Discord-kanalen för syftet. Dokumentet uppdateras regelbundet fram till den 23:e november.
 
@@ -13,6 +12,7 @@ Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frå
 * Kommer kommunikationen nästa år bli bättre för att sektretessen lättar något eller är det något annat som kommer göra det lättare för er att kommunicera oftare och bättre?
 * Idag päverkas kursen mycket under dagen av enskilda ordrar vilket skapar oro. Överväger ni att anlita en market maker för att komma tillrätta med detta?
 * Kan vi få posten "övriga kostnader" uppbruttna i några olika kategorier såsom konsulter, resekostnader, lokaler och relaterade kostnader samt skatter och avgifter?
+* Bolaget saknar fortfarande större ägare. Vad har gjorts så här långt för att adressera frågan?
 
 # Marknadsföring
 * Varken Imint eller Wiko har varit särskillt aktiva med att marknadsföra AutoZoom till konsumenter och journalister. Ser ni att ni kommer att behöva ta en aktivare roll här för att skapa efterfrågan för era nyskapande produkter?
