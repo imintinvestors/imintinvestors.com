@@ -2,7 +2,7 @@
 date: 2017-11-16T11:13:00+02:00
 title: Frågor till Q3 frågestund
 ---
-Nedan följer en sammanställning av relevanta frågor att ställa under Q3 frågestunden. Förslag kan ges direkt på Discord-kanalen för syftet. Dokumentet uppdateras regelbundet fram till den 23:e november.
+Nedan följer en sammanställning av relevanta frågor förbereda Q3 frågestunden. Även ifall en del blivit delvis besvarade så lämnar fortfarande svaren mycket kvar att önska.
 
 # IR-kommunikation
 * När kan vi förvänta oss prognoser för 2018?
