@@ -15,6 +15,7 @@ params:
     - "css/blockquotes.css"
     - "css/subscribe.css"
     - "css/customer.css"
+    - "css/video.css"
   ListMode: "header"
   FrontPageMode: "header"
   FrontPageSection: "article"
@@ -34,3 +35,6 @@ menu:
     - name: "Press"
       weight: 30
       URL: "/press"
+    - name: "Video"
+      weight: 40
+      URL: "/video"

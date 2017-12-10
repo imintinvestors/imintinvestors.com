@@ -78,7 +78,6 @@ body > main > article > header > p {
 	padding-right: 2em;
 	direction: rtl;
 	white-space: nowrap;
-
 }
 body > main > article > header > p > * {
 	display: inline;

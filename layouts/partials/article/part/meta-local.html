@@ -1,0 +1,10 @@
+{{ if isset .Params "device" }}
+<span class='article-device'>{{ .Params.device }}</span>
+{{ end }}
+{{ if isset .Params "products" }}
+<ul class='article-products'>
+	{{ range .Params.products}}
+	<li>{{ . }}</li>
+	{{ end }}
+</ul>
+{{ end }}
