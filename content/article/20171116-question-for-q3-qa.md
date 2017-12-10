@@ -2,7 +2,7 @@
 date: 2017-11-16T11:13:00+02:00
 title: Frågor till Q3 frågestund
 ---
-Nedan följer en sammanställning av relevanta frågor förbereda Q3 frågestunden. Även ifall en del blivit delvis besvarade så lämnar fortfarande svaren mycket kvar att önska.
+Nedan följer en sammanställning av relevanta frågor förbereda Q3 frågestunden. Även ifall en del blivit _delvis besvarade så lämnar fortfarande svaren mycket kvar att önska_.
 
 # IR-kommunikation
 * När kan vi förvänta oss prognoser för 2018?
