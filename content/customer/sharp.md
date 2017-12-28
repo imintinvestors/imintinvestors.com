@@ -14,7 +14,7 @@ In April 2017 Imint announced a three year license agreement with Sharp. The [fi
 | --------- | ------------------------ | ------------------------ | ------------------------------------------------------------------------------------- |
 | 2017Q2    | [Aquos R][SHARP_AQUOS_R] | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/83772/673082.pdf) |
 | 2017Q4    | [Aquos Sense SHV40][SHARP_AQUOS_SENSE_SHV40] | [Stabilization][VH_STAB] | [Finwire](https://www.avanza.se/placera/telegram/2017/11/15/imint-imints-mjukvara-i-ny-smartphone-fran-sharp.html) |
-| 2017Q4    | [Aquos R Compact][SHARP_AQUOS_R_COMPACT | [Stabilization][VH_STAB] | [revealed by customer](http://www.sharp.co.jp/products/shv41/spec.html), [Finwire](https://www.avanza.se/placera/telegram/2017/12/22/imint-imints-mjukvara-i-ny-smartphone-fran-sharp.html) |
+| 2017Q4    | [Aquos R Compact][SHARP_AQUOS_R_COMPACT] | [Stabilization][VH_STAB] | [revealed by customer](http://www.sharp.co.jp/products/shv41/spec.html), [Finwire](https://www.avanza.se/placera/telegram/2017/12/22/imint-imints-mjukvara-i-ny-smartphone-fran-sharp.html) |
 
 [SHARP]: http://www.sharp.co.jp/
 [SHARP_AQUOS_R]: http://www.sharp.co.jp/products/sh03j/
