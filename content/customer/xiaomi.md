@@ -7,7 +7,7 @@ title: Xiaomi
 [Xiaomi][XIAOMI] is a large Chinese technology company that designs, develops, and manufactures smartphones, laptops and other consumer electronics. It was founded in 2010 is headquartered in the Haidian District of Beijing. Since releasing its first phone in August 2011 and has grown to become the 4th biggest cellphone manufacturer in the world in the [last quarter of 2017](https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/) with a 7% market share.
 
 # History
-Imint AB and Xiaomi signed a development agreement for Vidhance stabilization on the [2nd June 2017][CISION_20170602].
+Imint AB and Xiaomi signed a development agreement for Vidhance stabilization on the [2nd June 2017][CISION_20170602] worth about SEK 550 000. It was planned to be executed during the summer and result inclusion in several smartphone models during 2017.
 
 After a very long wait Imint finally where able to [announce][CISION_20180117] the signment of a licensagreement on the 17th of Januar 2018. On the 15th of February 2018 it was found through firmware analysis that he Mi Mix 2S contains Vidhance Video Stabilization and the day after on the 16th of February Imint [named][CISION_20180216] Xiaomi being the customer and also informed the market that it is a three year contract and only covered Vidhance Video Stabilization.
 
