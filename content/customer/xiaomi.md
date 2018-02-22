@@ -17,9 +17,15 @@ Today the existence of Vidhance software is verified in the following phones:
 | Announced | Model                                   | Product                  | Source            |
 | --------- | --------------------------------------- | ------------------------ | ----------------- |
 | 2017Q1    | [Mi Mix 2s][MI_MIX_2S]                  | [Stabilization][VH_STAB] | firmware analysis |
+| 2017Q1    | [Mi 7][MI_7]                            | [Stabilization][VH_STAB] | firmware analysis |
+| 2017Q1    | [Redmi Note 5 Pro][REDMI_NOTE5_PRO]     | [Stabilization][VH_STAB] | firmware analysis |
+| 2017Q1    | [Mi Max 3][MI_MAX_3]                    | [Stabilization][VH_STAB] | firmware analysis |
 
 [XIAOMI]: https://en.wikipedia.org/wiki/Xiaomi
 [MI_MIX_2S]: http://www.mi.com/en/mix2s
+[MI_7]: http://www.mi.com/en/mi7/
+[REDMI_NOTE5_PRO]: http://www.mi.com/en/note5pro/
+[MI_MAX_3]: http://www.mi.com/en/max3/
 [CISION_20170602]: http://news.cision.com/se/imint/r/imint-tecknar-utvecklingsavtal-med-ny-kinesisk-kund,c2270569
 [CISION_20180117]: http://news.cision.com/se/imint/r/imint-tecknar-trearigt-licens--och-supportavtal-med-kinesisk-kund,c2425350
 [CISION_20180216]: http://news.cision.com/se/imint/r/imint-och-xiaomi-tecknar-licensavtal-for-videostabilisering,c2453979
