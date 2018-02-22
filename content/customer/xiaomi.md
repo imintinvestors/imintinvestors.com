@@ -16,10 +16,10 @@ Today the existence of Vidhance software is verified in the following phones:
 
 | Announced | Model                                   | Product                  | Source            |
 | --------- | --------------------------------------- | ------------------------ | ----------------- |
-| 2017Q1    | [Mi Mix 2s][MI_MIX_2S]                  | [Stabilization][VH_STAB] | firmware analysis |
-| 2017Q1    | [Mi 7][MI_7]                            | [Stabilization][VH_STAB] | firmware analysis |
-| 2017Q1    | [Redmi Note 5 Pro][REDMI_NOTE5_PRO]     | [Stabilization][VH_STAB] | firmware analysis |
-| 2017Q1    | [Mi Max 3][MI_MAX_3]                    | [Stabilization][VH_STAB] | firmware analysis |
+| 2018Q1    | [Mi Mix 2s][MI_MIX_2S]                  | [Stabilization][VH_STAB] | firmware analysis |
+| 2018Q1    | [Mi 7][MI_7]                            | [Stabilization][VH_STAB] | firmware analysis |
+| 2018Q1    | [Redmi Note 5 Pro][REDMI_NOTE5_PRO]     | [Stabilization][VH_STAB] | firmware analysis |
+| 2018Q1    | [Mi Max 3][MI_MAX_3]                    | [Stabilization][VH_STAB] | firmware analysis |
 
 [XIAOMI]: https://en.wikipedia.org/wiki/Xiaomi
 [MI_MIX_2S]: http://www.mi.com/en/mix2s
