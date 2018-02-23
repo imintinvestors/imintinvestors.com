@@ -2,7 +2,8 @@
 #huawei > header > h1,
 #sharp > header > h1,
 #vivo > header > h1,
-#wiko > header > h1 {
+#wiko > header > h1,
+#xiaomi > header > h1 {
 	background-size: 1.8em 1.4em;
 	background-position-y: center;
 	background-repeat: no-repeat;
@@ -18,3 +19,5 @@
 #vivo:first-child > header > h1, #vivo:hover > header > h1 { background-image: url("customer/vivo-bright.svg"); }
 #wiko > header > h1 { background-image: url("customer/wiko-dark.svg"); }
 #wiko:first-child > header > h1, #wiko:hover > header > h1 { background-image: url("customer/wiko-bright.svg"); }
+#xiaomi > header > h1 { background-image: url("customer/xiaomi-dark.svg"); }
+#Xiaomi:first-child > header > h1, #xiaomi:hover > header > h1 { background-image: url("customer/xiaomi-bright.svg"); }
