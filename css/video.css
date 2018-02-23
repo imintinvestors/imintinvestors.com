@@ -1,0 +1,33 @@
+article > aside {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px; height: 0; overflow: hidden;
+}
+article > aside > iframe,
+article > aside > object,
+article > aside > embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+article > header ul.article-products {
+	display: inline;
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding-right: 2em;
+	white-space: nowrap;
+}
+article > header ul.article-products li {
+	display: inline;
+}
+article > header ul.article-products li:not(:last-child)::after {
+	content: ","
+}
+article > aside + .self-link {
+	display: none;
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Imint Investors</title>
+    <link>//imintinvestors.com/video/</link>
+    <description>Recent content in Videos on Imint Investors</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//imintinvestors.com/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>X20 Video Test</title>
+      <link>//imintinvestors.com/video/20171019-x20-video-test/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//imintinvestors.com/video/20171019-x20-video-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roller Coaster</title>
+      <link>//imintinvestors.com/video/20170902-roller-coaster/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//imintinvestors.com/video/20170902-roller-coaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wim Video Test</title>
+      <link>//imintinvestors.com/video/20170715-wim-video-test/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//imintinvestors.com/video/20170715-wim-video-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken Test</title>
+      <link>//imintinvestors.com/video/20170817-chicken-test/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//imintinvestors.com/video/20170817-chicken-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kite Surf</title>
+      <link>//imintinvestors.com/video/20170808-kite-surf/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//imintinvestors.com/video/20170808-kite-surf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Auto Zoom Test</title>
+      <link>//imintinvestors.com/video/20170803-first-auto-zoom-test/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>//imintinvestors.com/video/20170803-first-auto-zoom-test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
