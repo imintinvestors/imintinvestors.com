@@ -16,8 +16,8 @@ Although Wiko does not always use the Vidhance brand name in their data sheets t
 
 | Announced | Model | Product | Source |
 | ---- | ----- | ------- | -------- |
-| 2018Q1 | [View 2][WIKO_VIEW2] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [revealed by Imint](https://twitter.com/vidhance/status/968916185843716097?s=19) |
-| 2018Q1 | [View 2 Pro][WIKO_VIEW2_PRO] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [revealed by Imint](https://twitter.com/vidhance/status/968916185843716097?s=19) |
+| 2018Q1 | [View 2][WIKO_VIEW2] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [revealed by Imint](https://imint.se/imint-mobile-world-congress-2018/) |
+| 2018Q1 | [View 2 Pro][WIKO_VIEW2_PRO] | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | [revealed by Imint](https://imint.se/imint-mobile-world-congress-2018/) |
 | 2017Q3 | View Prime | [Stabilization][VH_STAB], [Live Auto Zoom][VH_LAZ] | revealed by customer ([Stabilization](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png), [Live Auto Zoom](https://cdn.discordapp.com/attachments/350321080742969347/354277722203095051/Screenshot_20170904-165300.png)) |
 | 2017Q3 | View XL | [Stabilization][VH_STAB] | [revealed by customer](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png) |
 | 2017Q3 | [View][WIKO_VIEW] | [Stabilization][VH_STAB] | [revealed by customer](https://cdn.discordapp.com/attachments/350321080742969347/354273353521168395/Screenshot_20170904-163534.png) |
