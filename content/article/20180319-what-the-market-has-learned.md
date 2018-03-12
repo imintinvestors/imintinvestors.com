@@ -6,7 +6,7 @@ author: Simon Mika
 
 ### THIS IS STILL A DRAFT
 
-Since our last articles here on [imintinvestors.com](http://imintinvestors.com) in mid November we have had two more quarterly reports. Not only has that provided a bunch of new information and data points but it has also resulted in a loss of over 45% of the company's value and over 80% from the all time high of SEK 99.75 / share.
+Since our last articles here on [imintinvestors.com](http://imintinvestors.com) in mid November we have had two more quarterly reports. Not only has that provided a bunch of new information and data points but it has also resulted in a _loss of over 45% of the company's value_ and over 80% from the all time high of SEK 99.75 / share.
 
 So what are the things we learned about Imint that has caused this to happen?
 
@@ -14,16 +14,21 @@ So what are the things we learned about Imint that has caused this to happen?
 
 ## Progressive Volume Rebates
 
-It was always known that the unit price for a customer was dependent on the volume. But in the presentation following the 2017 Q3 report Imint's CFO Jens Ålander made it clear that at least with Huawei, the rebate increased stepwise after certain sold volumes. And that rebate scheme had a significant effect on the revenue for the third quarter according to Mr. Ålander. 
+It was always known that the unit price for a customer was dependent on the volume. But in the presentation following the 2017 Q3 report Imint's CFO Jens Ålander made it clear that at least with Huawei, the rebate _increased stepwise_ after certain sold volumes. And that rebate scheme had a significant effect on the revenue for the third quarter according to Mr. Ålander. 
+
+> Given that Imint had some smaller volume sales of through other customers starting i Q3 Huawei might likely actually even have contributed a smaller amount to Imints total revenue in Q3 than i Q2.
 
 To understand how big of an effect this little piece of information has on the best revenue projections shareholders are able to do one must keep in mind that the sold monthly volume of a Huawei smartphone model [keeps increasing](http://imintinvestors.com/article/20170912-prediction-of-huawei-sales-of-vidhance-models/) for probably at least the first two quarters of the total lifespan. What that means is that Huawei most likely sold more phones with the Vidhance Video Stabilization in Q3 than even in Q2 but that they ended up paying Imint about same of total sum of license fees in Q3. Given that Imint had some smaller volume sales of through other customers starting i Q3 Huawei might likely actually even have contributed a smaller amount to Imints total revenue in Q3 than i Q2.
 
 It is still unclear wether this rebate scheme is per customer or per smartphone model. However the moderate increase of revenue in Q4 suggests that it might be per customer or at least per year and not per model.
 
-## No Cash Flow Positive During First Half of 2018
-After landing the Huawei deal and closing the last new emission in November of 2017 Imint's CEO Andreas Lifvendahl, declared that they would reach a positive cash flow within 12-18 months. Since then that statement has not been retracted but it has also never been repeated again. Even on a direct question about it. So what happened?
+## Not Cash Flow Positive During First Half of 2018
 
-When we now in hindsight look at the costs the company had at the time of the statement they where at about SEK 4.3 million in Q3 2016. That number does not include sales taxes in China and no depreciation of previously capitalized development costs. In Q3 2017 less then 12 months after the statement Imint had a revenue of about SEK 4.7 million after sales taxes have been deducted and not counting any capitalization of development costs. The answer to what happened was that Imint during that year, almost doubled their costs to above SEK 8.5 million a quarter.
+After landing the Huawei deal and closing the last new emission in November of 2017 Imint's CEO Andreas Lifvendahl, declared that they would reach a _positive cash flow within 12-18 months_. Since then that statement has not been retracted but it has also never been repeated again. Even on a direct question about it. So what happened?
+
+When we now in hindsight look at the costs the company had at the time of the statement they where at about _SEK 4.3 million_ in Q3 2016. That number does not include sales taxes in China and no depreciation of previously capitalized development costs. In Q3 2017 less then 12 months after the statement Imint had a revenue of about _SEK 4.7 million_ after sales taxes have been deducted and not counting any capitalization of development costs. The answer to what happened was that Imint during that year, almost _doubled their costs_ to above SEK 8.5 million a quarter.
+
+> The answer to what happened was that Imint during that year, almost _doubled their costs_ to above SEK 8.5 million a quarter.
 
 One can clearly observe the cost increases in the table below. Observe that the revenue numbers does not contain any capitalization of development costs and that the net sales have been decreased by 10% to adjust for the Chinese sales tax. (Disregarding that only about 80% of the sales was to China.) In a similiar fashion the sales tax and the depreciation have been removed from the cost numbers. This makes it easier to see the actual costs of running the organisation without the cost increases caused by higher sales volumes. All numbers are in kSEK. 
 
@@ -38,13 +43,19 @@ One can clearly observe the cost increases in the table below. Observe that the 
 | 2017 Q3 |    4748 |  7392 |
 | 2017 Q4 |    5808 |  8744 |
 
-From the above can be deduced that Imint would have become cash flow positive within the time frame Mr. Lifvendahl stated with the costs they had at the time. But it is also obvious that sometime after that point in time they changed their plans and decided to significantly increase the costs. One can assume that that decision was driven by the wish to increase the sales capacity and to expedite the development of the new products, but it can also not be excluded that having about SEK 50 million in the bank influenced the decision to increase the burn rate.
+> Imint would have become cash flow positive within the time frame Mr. Lifvendahl stated with the costs they had at the time.
+
+From the above can be deduced that Imint would have become cash flow positive within the time frame Mr. Lifvendahl stated with the costs they had at the time. But it is also obvious that sometime after that point in time they changed their plans and decided to significantly increase the costs. One can assume that that decision was driven by the wish to _increase the sale capacity_ and to expedite the development of the _new products_, but it can also not be excluded that having about SEK 50 million in the bank influenced the decision to increase the burn rate.
+
+> It can also not be excluded that having about SEK 50 million in the bank influenced the decision to increase the burn rate.
 
 ## Few New Customers
 
-One of the more important things the market has learned was not divulged in a press release but rather by the lack of press releases. Especially by the lack of a bigger number of new customers in a year so clearly communicated to be a land grab year. Yes Imint has by now landed contract with three big of the five biggest Android handset makers. That is a great achievement. But given the fact of their high volume rebates it is more worrying that Imint has so far not been able to land more then for smaller smartphone manufacturers and none them in China. In fact only three new customers in total where named and released phones with Vidhance during 2017.
+One of the more important things the market has learned was not divulged in a press release but rather by the lack of press releases. Especially by the lack of a bigger number of new smart phone customers in a year so clearly communicated to be a land grab year. Yes, Imint has by now landed contract with three big of the five biggest Android handset makers. That is a great achievement. But given the fact of their high volume rebates it is more worrying that Imint has so far not been able to land more smaller smartphone manufacturers and none them in China. In fact only three new customers in total where named and released phones with Vidhance during 2017. That is only one more then the year before. 2018 on the other hand has started out better and we have had two new independent customers so far.
 
-In order to make a significant profit with Vidhance Video Stabilization Imints need to efficently sell and integrate their product into a large number of small and midsized brands. Just selling to the five or ten biggest players will likely not be enough. During 2017 they have not been able to prove their ability to scale up their sales, support and integration oranization in an efficient manner.
+> Only three new customers in total where named and released phones with Vidhance during 2017.
+
+In order to make a significant profit with Vidhance Video Stabilization Imints need to efficently sell and integrate their product into a large number of small and midsized brands. Just selling to the five or ten biggest players will likely not be enough. During 2017 they have not been able to prove their ability to scale up their sales, support and integration organization in an efficient manner.
 
 ## Slow Auto Zoom Sales
 
