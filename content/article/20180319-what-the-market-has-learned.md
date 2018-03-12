@@ -6,7 +6,7 @@ author: Simon Mika
 
 ### THIS IS STILL A DRAFT
 
-Since our last articles here on [http://imintinvestors.com] in mid November we have had two more quarterly reports. Not only has that provided a bunch of new information and data points but it has also resulted in a loss of over 45% of the company's value and over 80% from the all time high of SEK 99.75 / share.
+Since our last articles here on [imintinvestors.com](http://imintinvestors.com) in mid November we have had two more quarterly reports. Not only has that provided a bunch of new information and data points but it has also resulted in a loss of over 45% of the company's value and over 80% from the all time high of SEK 99.75 / share.
 
 So what are the things we learned about Imint that has caused this to happen?
 
