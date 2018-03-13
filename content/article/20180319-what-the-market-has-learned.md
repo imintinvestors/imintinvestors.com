@@ -108,20 +108,32 @@ It seams that Xiaomi wants to include it in many if not all of their models. Eve
 
 ## Fujitsu Connected Technologies
 
-The news that Imint had signed a three year license agreement with Fujitsu Connected Technologies created more positive reaction. Probably in parts because it was less expected and maybe also because the license agreement is for more products than just the Vidhance Video Stabilization. Fujitsu is [about to sell](http://www.fujitsu.com/global/about/resources/news/press-releases/2018/0131-01.html) Fujitsu Connected Technologies to the leading japanese buyout firm Polaris.
+The news that Imint had signed a _three year license agreement_ with Fujitsu Connected Technologies created more positive reaction. Probably in parts because it was less expected and maybe also because the license agreement is for _more products than just the Vidhance Video Stabilization_. Fujitsu is [about to sell](http://www.fujitsu.com/global/about/resources/news/press-releases/2018/0131-01.html) Fujitsu Connected Technologies to the leading japanese buyout firm Polaris.
 
 ## 9% of 2017 Revenue from Sharp
 
-Together with the Q4 2017 numbers Imint also provided a geographic breakdown of the 2017 revenue. From it it can be concluded that Sharp contributed as much as 9% of the revenue for 2017. Also Imints European customers Wiko and BQ contributed to about 8% of the revenue togther. Even if Huawei is by far Imints biggest customer by number of shipped units it seams that Imint does actually earn quite a bit of revenue from its smaller customers.
+> Imint earns quite a bit of revenue from its smaller customers.
 
-This is particulary interesting now that Imint has already signed license agreements with half of the top 6 smartphone companies. The opportunity for significant revenue growth is much bigger in the rest of the market where there are a lot more companies of the size like Sharp and Wiko. Especially in China where Imint has yet not landed a single smaller customer.
+Together with the Q4 2017 numbers Imint also provided a geographic breakdown of the 2017 revenue. From it it can be concluded that Sharp contributed as much as 9% of the revenue for 2017. Also Imints European customers Wiko and BQ contributed to about 8% of the revenue togther. Even if Huawei is by far Imints biggest customer by number of shipped units it seams that Imint does actually _earn quite a bit of revenue_ from its smaller customers.
+
+> Imint has signed license agreements with half of the top 6 smartphone companies.
+
+This is particulary interesting now that Imint has already signed license agreements with half of the top 6 smartphone companies. The opportunity for _significant revenue growth_ is much bigger in the rest of the market where there are a lot more companies of the size like Sharp and Wiko. Especially in China where Imint has yet not landed a single smaller customer.
+
+> The revenue growth opportunity for is much bigger among small and mediumsized customers.
 
 ## Vidhance Auto Curate Ready H1 2018
 
-Another good news communicated since November is that Imint expects a first version of Vidhance Auto Curate to be ready for customer integration during the first half of 2018. They do however indicate that in this first iteration the product will have a limited feature set.
+Another good news communicated since November is that Imint expects a first version of Vidhance Auto Curate to be _ready for customer integration_ during the first half of 2018. They do however indicate that in this first iteration the product will have a limited feature set.
 
 # Conclusions
 
-Although the pace of news has increased and Imint has added a few new customers the market still seams sceptical and there are so far no clear signs that long downward trend really is broken. It also is clear that we will have to wait even longer for Imint to get to a positive cash flow and even when that happens it seams likly, with the current cost structure, that the company will not make any bigger profits without a successfull larger volumes sales of new products while keeping a higher royalty per unit.
+> It is time to review the hard facts, both for and against a sucess hypothesis.
 
-What it will take to actually break out if the current trend will be the theme of an upcomming article.
+Even if not everything about Imint is glomy we must also be able to acknowledge and discuss Imints shortcomings in order to not fool ourselves. It is an undisputable fact that Imint has come a long way since the IPO but that also means it is time to review the hard facts, both for and against a sucess hypothesis. We need to avoid becoming _prey to [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)_ and we need to always also actively look for evidence that contradicts our hypothesis whether it is bullish or bearish. Faith might be a beneficial thing in investing helping us through the rough spots but, in investing we should never resort only faith blindly. It comes down to the hard facts in the end, wether we like it or not.
+
+> In investing we should never resort only faith, blindly.
+
+Although the pace of news has increased and Imint has added a few new and important and exciting customers the stock market still seams sceptical and there are so far no clear signs that long downward trend realy is broken. It also is clear that we will have to _wait even longer_ for Imint to get to a positive cash flow and even when that happens it seams likely, with the current cost structure, that the company will _not make bigger profits_ without a successfull _larger volumes sales_ of new products while keeping a _higher royalty per unit_.
+
+What it will take to actually break out of the current trend will be the theme of an upcomming article.
