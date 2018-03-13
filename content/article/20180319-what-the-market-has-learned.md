@@ -59,6 +59,8 @@ In order to make a significant profit with Vidhance Video Stabilization Imints n
 
 ## Slow Auto Zoom Sales
 
+> Many investors are excited about Auto Zoom as a product.
+
 Auto Zoom is a product that has gotten many investors excited. And even if Imint often have stated that they have a high customer interest in the product and that the product has created some realy cool videos Imint has not been able launch the product with more customers then Wiko. Successfully creating and selling new products on the smartphone market is crucial to Imints long term success. In part to achieve higher royalty revenues with more unique products than the Vidhance Video Stabilization but also to replace revenue lost due to increasing competion in the video stabilization market. Much like Fingerprint Cards has experienced during 2017.
 
 To many investors the slow uptake of Auto Zoom by the customers signal that it might take longer time to establish a new product subcategory then Imint have been expecting so far. It also brings to mind the fact that the budget for a phone is limited. To make budget for a new feature the license costs of the existing features have to be lowered. If Imint fails to create a new must have products they will not have the bargaining postion to get a significantly higher price when adding Auto Zoom to the package then they do today when they only provide Video Stabilzation. New products might still be very important to keep up the existing customer revenues as competition on video stabilization increases but it might not add new revenue streams of a significant size as the video recording budget simple gets reallocated to new features but not actually increased.
@@ -69,17 +71,17 @@ Not all news have however been obviously bad. Some have been received negativly 
 
 ## Side Projects
 
-Imint has mainly in Q4 been devoting some recources towards paying customers outside of smartphones and consumer created video. The first one published was a development with the small and unprofitable medtech company Kontigo Care and a product for predicting and preventing substance addictions. The other project was a deliviering a new generation of object tracker to Saabs air traffic control systems.
+Imint has mainly in Q4 been devoting some recources towards paying _customers outside of smartphones_ and consumer created video. The first one published was a development with the small and unprofitable medtech company Kontigo Care and a product for predicting and preventing substance addictions. The other project was a deliviering a new generation of object tracker to Saabs air traffic control systems.
 
 The deal with Kontigo Care is valued at kSEK 400 initial with a potential for future license royalty and for the deal with Saab it was not regarded important enough to even communicate a deal value nor issue an actual press release. The company have also stated that with both projects there are some synergies with the smartphone and consumer video recording business.
 
-Given the negative market reactions on the Kontigo news the market seams not to value these test shoots in smaller niche markets although there are certainly some investors that view them in as positive even if the short term value remains small.
+Given the negative market reactions on the Kontigo news the market seams _not to value these test shoots_ in smaller niche markets although there are certainly some investors that view them in as positive even if the short term value remains small.
 
 ## New Code Base in C++
 
-Another thing Imint communicated as a part of their christmas greeting was that they during 2017 have been rewriting their existing code base to C++. This should according to the same christmas greeting make integration even easier and more efficient.
+Another thing Imint communicated as a part of their christmas greeting was that they during 2017 have been _rewriting their existing code base to C++_. This should according to the same christmas greeting make integration even easier and more efficient.
 
-While this might to many come across as a minor news one can assume that some key developers must have been heavily involved in this project for quite some time. As these types of rewrites from a software engineering perspective are know as high risk projects the bullish investor will be glad over the fact that the project seams to have succeeded that that hopefuly frees up  resources for working with new customers and on new products. 
+While this might to many come across as a minor news one can assume that at least a few key developers must have been heavily involved in this project for quite some time. As these types of rewrites, from a software engineering perspective are know as _high risk projects_ the bullish investor is glad over the fact that the project _seams to have succeeded_ that that hopefuly frees up  resources for working with new customers and on new products. 
 
 The more bearish investor would probably question the wisdom of prioritizing a full product rewrite in a situation where the company struggles to turn a profit. On top of this comes the fact that C++ is known to take many years to master and that Imint now probably has to get all of their over 20 developers productive.
 
@@ -94,10 +96,13 @@ Beginning of December Imint launched their new website with the somewhat akward 
 With the new site we have also seen an increased pace in information from Imint both on the new website and their [twitter account](https://twitter.com/vidhance). They have even [confirmed](https://twitter.com/vidhance/status/968916185843716097) the use of Vidhance Video Stabilisation and Vidhance Auto Zoom in the Wiko View 2 and View 2 Pro phones. Time will tell wether they actually have changed their policy to only communicate the first phone relase for each customer.
 
 # The Good News
-However not everything is bad. A few and and long awaited positive news have also been communicated.
+However not everything is bad. A couple of _positive news_ have also been communicated.
 
 ## Xiaomi
-Finally after a long wait and some delay the development agreement from beginnig of the summer of 2016 has lead to a license agreement with Xiaomi. Analysis of firmware also confirms the use of Vidhance Video Stabilization in at least for [comming models](http://imintinvestors.com/customer/xiaomi/). The markets reaction to the news where very limited probably due to the fact that many investors already expected the customer to be Xiaomi and that the news where spread out in two different press releases. One stating that the developing contract had resulted in a license agreement and the other naming Xiaomi as the customer in question.
+
+> Analysis of firmware confirms Vidhance Video Stabilization in at least four [coming models](http://imintinvestors.com/customer/xiaomi/).
+
+Finally after a long wait and some delay the development agreement from beginnig of the summer of 2016 has lead to a license agreement with Xiaomi. Analysis of firmware also confirms the use of Vidhance Video Stabilization in at least four [coming models](http://imintinvestors.com/customer/xiaomi/). The markets reaction to the news where very limited probably due to the fact that many investors already expected the customer to be Xiaomi and that the news where spread out in two different press releases. One stating that the developing contract had resulted in a license agreement and the other naming Xiaomi as the customer in question.
 
 It seams that Xiaomi wants to include it in many if not all of their models. Even the more cost sensitive mid range models. Adding to this was the recent [news](https://news.cision.com/se/imint/r/imint-tecknar-licens-och-supportavtal-med-blackshark-technologies--ett-dotterbolag-till-xiaomi-inc-,c2469361) that Imint also has signed an one year agreement with the Xiaomi subsidary Blackshark Technologies.
 
