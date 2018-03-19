@@ -1,6 +1,6 @@
 ---
 date: 2018-03-19T09:00:00+02:00
-title: What the Market has Learned.
+title: What the Market has Learned
 author: Simon Mika
 ---
 
