@@ -73,13 +73,13 @@ Imint has mainly in Q4 been devoting some resources towards paying _customers ou
 
 The deal with Kontigo Care is valued at kSEK 400 initial with a potential for future license royalty and for the deal with Saab it was not regarded important enough to even communicate a deal value nor issue an actual press release. The company have also stated that with both projects there are some synergies with the smartphone and consumer video recording business.
 
-Given the negative market reactions on the Kontigo news the market seams _not to value these test shoots_ in smaller niche markets although there are certainly some investors that view them in as positive even if the short term value remains small.
+Given the negative market reactions on the Kontigo news the market seems _not to value these test shoots_ in smaller niche markets although there are certainly some investors that view them in as positive even if the short term value remains small.
 
 ## New Code Base in C++
 
 Another thing Imint communicated as a part of their Christmas greeting was that they during 2017 have been _rewriting their existing code base to C++_. This should according to the same greeting make integration even easier and more efficient.
 
-While this might to many come across as a minor news one can assume that at least a few key developers must have been heavily involved in this project for quite some time. As these types of rewrites, from a software engineering perspective are know as _high risk projects_ the bullish investor is glad over the fact that the project _seams to have succeeded_ that that hopefully frees up  resources for working with new customers and on new products.
+While this might to many come across as a minor news one can assume that at least a few key developers must have been heavily involved in this project for quite some time. As these types of rewrites, from a software engineering perspective are know as _high risk projects_ the bullish investor is glad over the fact that the project _seems to have succeeded_ that that hopefully frees up  resources for working with new customers and on new products.
 
 The more bearish investor would probably question the wisdom of prioritizing a full product rewrite in a situation where the company struggles to turn a profit. On top of this comes the fact that C++ is known to take many years to master and that Imint now probably has to get all of their over 20 developers productive.
 
@@ -103,7 +103,7 @@ However not everything is bad. A couple of _positive news_ have also been commun
 
 Finally after a long wait and some delay the development agreement from beginning of the summer of 2016 has lead to a license agreement with Xiaomi. Analysis of firmware also confirms the use of Vidhance Video Stabilization in at least four [coming models](http://imintinvestors.com/customer/xiaomi/). The markets reaction to the news where very limited probably due to the fact that many investors already expected the customer to be Xiaomi and that the news where spread out in two different press releases. One stating that the developing contract had resulted in a license agreement and the other naming Xiaomi as the customer in question.
 
-It seams that Xiaomi wants to include it in many if not all of their models. Even the more cost sensitive mid range models. Adding to this was the recent [news](https://news.cision.com/se/imint/r/imint-tecknar-licens-och-supportavtal-med-blackshark-technologies--ett-dotterbolag-till-xiaomi-inc-,c2469361) that Imint also has signed an one year agreement with the Xiaomi fully owned subsidiary Blackshark Technologies.
+It seems that Xiaomi wants to include it in many if not all of their models. Even the more cost sensitive mid range models. Adding to this was the recent [news](https://news.cision.com/se/imint/r/imint-tecknar-licens-och-supportavtal-med-blackshark-technologies--ett-dotterbolag-till-xiaomi-inc-,c2469361) that Imint also has signed an one year agreement with the Xiaomi fully owned subsidiary Blackshark Technologies.
 
 ## Fujitsu Connected Technologies
 
@@ -113,7 +113,7 @@ The news that Imint had signed a _three year license agreement_ with Fujitsu Con
 
 > Imint earns quite a bit of revenue from its smaller customers.
 
-Together with the Q4 2017 numbers Imint also provided a geographic breakdown of the 2017 revenue. From it it can be concluded that Sharp contributed as much as 9% of the revenue for 2017. Also Imints European customers Wiko and BQ contributed to about 8% of the revenue together. Even if Huawei is by far Imints biggest customer by number of shipped units it seams that Imint does actually _earn quite a bit of revenue_ from its smaller customers.
+Together with the Q4 2017 numbers Imint also provided a geographic breakdown of the 2017 revenue. From it it can be concluded that Sharp contributed as much as 9% of the revenue for 2017. Also Imints European customers Wiko and BQ contributed to about 8% of the revenue together. Even if Huawei is by far Imints biggest customer by number of shipped units it seems that Imint does actually _earn quite a bit of revenue_ from its smaller customers.
 
 > Imint has signed license agreements with half of the top 6 smartphone companies.
 
@@ -133,6 +133,6 @@ Even if not everything about Imint is glomy we must also be able to acknowledge 
 
 > In investing we should never resort only faith, blindly.
 
-Although the pace of news has increased and Imint has added a few new and important and exciting customers the stock market still seams skeptical and there are so far no clear signs that long downward trend really is broken. It also is clear that we will have to _wait even longer_ for Imint to get to a positive cash flow and even when that happens it seams likely, with the current cost structure, that the company will _not make bigger profits_ without a successful _larger volumes sales_ of new products while keeping a _higher royalty per unit_.
+Although the pace of news has increased and Imint has added a few new and important and exciting customers the stock market still seems skeptical and there are so far no clear signs that long downward trend really is broken. It also is clear that we will have to _wait even longer_ for Imint to get to a positive cash flow and even when that happens it seems likely, with the current cost structure, that the company will _not make bigger profits_ without a successful _larger volumes sales_ of new products while keeping a _higher royalty per unit_.
 
 What it will take to actually break out of the current trend will be the theme of an upcoming article.
