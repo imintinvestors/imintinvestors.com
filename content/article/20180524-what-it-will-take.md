@@ -5,32 +5,32 @@ author: Simon Mika
 ---
 Among Imints shareholders there are plenty of ideas what it will take to Imints valuation soar once again.
 
-Today we have very limited information on Imints pricing model and it is uncertainty whether rebates levels are achieved on a yearly basis or not. Therefore it is today reasonable to assume that Imint will _not make any substantial profits on their current trajectoryZ even if they certainly can achieve break even for at least a quarter or two the coming year. Hopefully even more thanks to the license agreement with Xiaomi. Once Xiaomi however reaches the higher levels of rebates _positive quarterly earnings will not be a given_. Even if Imint lands one or even two of the few remaining big customers it will most likely only result in quite modest overall earnings.
-
 > Imint has saturated their part of the market.
 
-For the company to even grow into todays valuation with a P/E of 20 it would take a result of about SEK 10 million on a yearly basis. With the current cost structure that would require an almost doubled revenue ((10 / 4 + 9) / 6 = 192%). Best case that is achievable with the Xiaomi agreement. Getting back to valuations above SEK 50 per share is not possible with the current trajectory. Imint has at the moment saturated the market they are in and so far not succeeded in proving that they actually will break into new once.
+Today we have very limited information on Imints pricing model and it is uncertainty whether rebates levels are achieved on a yearly basis or not. Therefore it is today reasonable to assume that Imint will _not make any substantial profits on their current trajectoryZ even if they certainly can achieve break even for at least a quarter or two the coming year. Hopefully even more thanks to the license agreement with Xiaomi. Once Xiaomi however reaches the higher levels of rebates _positive quarterly earnings will not be a given_. Even if Imint lands one or even two of the few remaining big customers it will most likely only result in quite modest overall earnings.
 
 | Income [kSEK]                                     |  2017q4 |
-|---------------------------------------------------|---------|
+|---------------------------------------------------|--------:|
 | net sales                                         |   6 468 |
 | other operating income                            |     -15 |
 | capitalized work for own account                  |   3 890 |
 | _sum income_                                        | _10 343_ |
 | _sum income excl. capitalization and tax at source_ | _5 808_ |
 
+For the company to even grow into todays valuation with a P/E of 20 it would take a result of about SEK 10 million on a yearly basis. With the current cost structure that would require an almost doubled revenue ((10 / 4 + 9) / 6 = 192%). Best case that is achievable with the Xiaomi agreement. Getting back to valuations above SEK 50 per share is not possible with the current trajectory. Imint has at the moment saturated the market they are in and so far not succeeded in proving that they actually will break into new once.
 
 | Expenses [kSEK]                                   |  2017q4 |
-|---------------------------------------------------|---------|
+|---------------------------------------------------|--------:|
 | other external expenses                           |  -4 757 |
 | staff expenses                                    |  -4 632 |
 | depreciation                                      |  -1 997 |
 | _sum expenses_                                    | _-11 386_ |
 | _sum expenses excl. deprecation and tax at source_  |  _-8 744_ |
 
-> So far Imint has failed to break into new markets.
 
 To have a potential in that region at least one of the following things need to happen:
+
+> So far Imint has failed to break into new markets.
 
 1. Increased addressable stabilization market
 1. Breakthrough of new products
