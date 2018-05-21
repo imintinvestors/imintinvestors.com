@@ -5,9 +5,9 @@ author: Simon Mika
 ---
 Among Imints shareholders there are plenty of ideas what it will take to Imints valuation soar once again.
 
-Today we have very limited information on Imints pricing model and it is uncertainty whether rebates levels are achieved on a yearly basis or not. Therefore it is today reasonable to assume that Imint will not make any substantial profits on their current trajectory even if they certainly can achieve break even for at least a quarter or two the coming year. Hopefully even more thanks to the license agreement with Xiaomi. Once Xiaomi however reaches the higher levels of rebates positive quarterly earnings will not be a given. Even if Imint lands one or even two of the few remaining big customers it will most likely only result in quite modest overall earnings.
+Today we have very limited information on Imints pricing model and it is uncertainty whether rebates levels are achieved on a yearly basis or not. Therefore it is today reasonable to assume that Imint will _not make any substantial profits on their current trajectoryZ even if they certainly can achieve break even for at least a quarter or two the coming year. Hopefully even more thanks to the license agreement with Xiaomi. Once Xiaomi however reaches the higher levels of rebates _positive quarterly earnings will not be a given_. Even if Imint lands one or even two of the few remaining big customers it will most likely only result in quite modest overall earnings.
 
-> Imint has saturated the market.
+> Imint has saturated their part of the market.
 
 For the company to even grow into todays valuation with a P/E of 20 it would take a result closer to SEK 10 million on a yearly basis. With the current cost structure that would require an increase of revenue increase of more then 80%. Best case that is achievable with the Xiaomi agreement. Getting back to valuations above SEK 50 per share is not possible with the current trajectory. Imint has at the moment saturated the market they are in and so far not succeeded in proving that they actually will break into new once.
 
@@ -23,25 +23,29 @@ Let us look into them one by one.
 
 # Increased Addressable Stabilization Market
 
-Currently most of Imints revenue comes from the top six smartphone makers. Imint currently has half of them as customers. Not even getting most of them would increase the revenue enough for a return to the old company valuations. It will not even happen if Imint achieves 100% penetration on existing customers as the volume rebates will make the marginal contribution small.
+Currently most of _Imints revenue comes from the top six smartphone makers_. Imint currently has half of them as customers. Not even getting most of them would increase the revenue enough for a return to the old company valuations. It will not even happen if Imint achieves 100% penetration on existing customers as the _volume rebates will make the marginal contribution small_.
 
 > Imint needs streamline the integration process into a highly efficient factory line.
 
-However, if Imint succeeds in creating a factory like system for integrating small and medium sized smartphone makers in an efficient and scalable manner they could have a lot more of these customers then the current handful they have. As rebate levels never get as high for these customers that would significantly increase the addressable market for stabilization and the value of that market.
+However, if Imint succeeds in creating a _factory like system_ for integrating small and medium sized smartphone makers in an efficient and scalable manner they could have a lot more of these customers then the current handful they have. As rebate levels never get as high for these customers that would significantly increase the addressable market for stabilization and the value of that market.
 
 > Rebate levels for small and medium sized customers are more modest.
 
-Looking on Imints revenue numbers broken down by region one can recognize that in 2017 Imint earned 9% of the revenue from Sharp, their only customer in Japan during the year and they made 8% of the revenue in Europe from Wiko and BQ. The good news is that Imint is so far only scratching the surface when it comes to customers of this size.
+Looking on Imints revenue numbers broken down by region one can recognize that in 2017 Imint earned _9% of the revenue from Sharp_, their only customer in Japan during the year and they made _8% of the revenue in Europe from Wiko and BQ_. The good news is that Imint is so far only scratching the surface when it comes to customers of this size.
 
-The bad news however seams to be that the integration processes with every customer usually is long and labor intense. This even if an initial working proof of concept integration can be achieved in a day or two. It seams likely that Imints early success with big customers, especially Huawei has had the unwanted effect on the organization and the product to become costly to integrate.
+> Imint is only scratching the surface when it comes to small and medium sized customers.
 
-What Imint would need to do is to split integration part of the organization in two, one for big high value customers and one for the smaller customers. That is probably the only way to avoid that the big contracts cannibalize the bigger potential market of small and mid sized customers.
+The bad news however seams to be that the _integration processes with every customer usually is long and labor intense_. This even if an _initial working proof of concept integration can be achieved in a day or two_. It seams likely that Imints early success with big customers, especially Huawei has had the unwanted effect on the organization and the product to become costly to integrate. From there Imint has worked and is still working to reduce the integration effort required.
+
+What Imint would need to do is to _split integration part of the organization in two_, one for _big high value customers_ and one for the higher volume of _smaller customers_. That is probably the only way to avoid that the big contracts cannibalize the bigger potential market of small and mid sized customers.
+
+> Big contracts cannibalize the bigger potential market of small and mid sized customers.
 
 Having more but smaller customers also has the benefit of creating a greater level of economic stability where the win or loss of single contracts are less dramatical and it creates a higher level of income predictability.
 
 # Breakthrough of New Products
 
-One quite obvious way to significantly grow revenue is to diversify by offering more products. The problem with this is that not only does Imint have to create great new and innovative products but they also need to create the market for them.
+One quite obvious way to significantly grow revenue is to _diversify by offering more products_. The problem with this is that not only does Imint have to _create great new and innovative products_ but they also need to _create the market_ for them.
 
 ## Auto Zoom
 
@@ -78,4 +82,3 @@ As cost reductions is the only way to achieve significant profits where Imint ra
 > Increasing the addressable market is hard and takes time, increasing the cost was easy and fast.
 
 Imint is currently on the trajectory of reaching break even. That is however already priced into the current company valuation together with modest profits. For Imint to present a _significant upside_, that would be worth the risk of investing in small company active on such a volatile market segment Imint will need to _increase the profit outlook significantly_. Either by _drastically increasing the addressable market for new or existing products_ or by _reducing the costs_ closer to the level they used to have over a year ago. Nothing stops Imint from combining all three approaches. The only thing the companies current efforts have proven is that increasing the addressable market is hard and takes time. The opposite seams however be true when it comes to increase the operating costs.
-
