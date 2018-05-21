@@ -19,7 +19,8 @@ For the company to even grow into todays valuation with a P/E of 20 it would tak
 | _sum income_                                        | _10 343_ |
 | _sum income excl. capitalization and tax at source_ | _5 808_ |
 
-| Income [kSEK]                                     |  2017q4 |
+
+| Expenses [kSEK]                                   |  2017q4 |
 |---------------------------------------------------|---------|
 | other external expenses                           |  -4 757 |
 | staff expenses                                    |  -4 632 |
