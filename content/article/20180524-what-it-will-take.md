@@ -19,13 +19,13 @@ Today we have very limited information on Imints pricing model and it is uncerta
 
 For the company to even grow into todays valuation with a P/E of 20 it would take a result of about SEK 10 million on a yearly basis. With the current cost structure that would require an almost doubled revenue ((10 / 4 + 9) / 6.4 = 180%). Best case that is achievable with the Xiaomi agreement. Getting back to valuations above SEK 50 per share is not possible with the current trajectory. Imint has at the moment saturated the market they are in and so far not succeeded in proving that they actually will break into new once.
 
-| Expenses [kSEK]                                     |    2017q4 |    2018q1 |
-|-----------------------------------------------------|----------:|----------:|
-| other external expenses                             |    -4 757 |    -4 524 |
-| staff expenses                                      |    -4 632 |    -4 948 |
-| depreciation                                        |    -1 997 |    -2 303 |
-| _sum expenses_                                      | _-11 386_ | _-11 775_ |
-| _sum expenses excl. deprecation and tax at source_  |  _-8 744_ |  _-8 835_ |
+| Expenses [kSEK]                                          |    2017q4 |    2018q1 |
+|----------------------------------------------------------|----------:|----------:|
+| other external expenses                                  |    -4 757 |    -4 524 |
+| staff expenses                                           |    -4 632 |    -4 948 |
+| depreciation                                             |    -1 997 |    -2 303 |
+| _sum expenses_                                           | _-11 386_ | _-11 775_ |
+| _sum expenses excl. deprecation and est. tax at source_  |  _-8 744_ |  _-8 835_ |
 
 
 To have a potential in that region at least one of the following things need to happen:
