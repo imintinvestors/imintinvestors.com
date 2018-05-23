@@ -17,15 +17,16 @@ all premium models ever since. For non-premium models Huawei has so far continue
 
 Today the existence of Vidhance software is verified in the following phones:
 
-| Announced | Model                                   | Product                  | Source                                                                                         |
-| --------- | --------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------- |
-| 2017Q4    | [Mate 10][HUAWEI_MATE10]                | [Stabilization][VH_STAB] | [firmware_analysis](https://twitter.com/vvizard_/status/912762392450420736)           |
-| 2017Q2    | [Honor 9][HUAWEI_HONOR9]                | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/872532160258899973)           |
-| 2017Q1    | [P10 Plus][HUAWEI_P10PLUS]              | [Stabilization][VH_STAB] | firmware analysis                                                                     |
-| 2017Q1    | [P10][HUAWEI_P10]                       | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/846701491704475648)           |
-| 2017Q1    | [Mate 9 Porsche design][HUAWEI_MATE9PD] | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)       |
-| 2016Q4    | [Mate 9 Pro][HUAWEI_MATE9PRO]           | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)       |
-| 2016Q4    | [Mate 9][HUAWEI_MATE9]                  | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf) |
+| Announced | Model                                   | Product                  | Source                                                                                                                                                                                                   |
+| --------- | --------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2018Q1    | [P20][HUAWEI_P20]                       | [Stabilization][VH_STAB] | firmware analysis, [NyTeknik](https://www.nyteknik.se/digitalisering/svenskar-bakom-rekordtekniken-i-nya-huawei-telefonen-6907512), [2018q1 Report](https://mb.cision.com/Main/13403/2526255/845621.pdf) |
+| 2017Q4    | [Mate 10][HUAWEI_MATE10]                | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/912762392450420736)                                                                                                                              |
+| 2017Q2    | [Honor 9][HUAWEI_HONOR9]                | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/872532160258899973)                                                                                                                              |
+| 2017Q1    | [P10 Plus][HUAWEI_P10PLUS]              | [Stabilization][VH_STAB] | firmware analysis                                                                                                                                                                                        |
+| 2017Q1    | [P10][HUAWEI_P10]                       | [Stabilization][VH_STAB] | [firmware analysis](https://twitter.com/vvizard_/status/846701491704475648)                                                                                                                              |
+| 2017Q1    | [Mate 9 Porsche design][HUAWEI_MATE9PD] | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)                                                                                                                          |
+| 2016Q4    | [Mate 9 Pro][HUAWEI_MATE9PRO]           | [Stabilization][VH_STAB] | [firmware analysis](https://www.avanza.se/placera/forum/trad.1775.2703761.html)                                                                                                                          |
+| 2016Q4    | [Mate 9][HUAWEI_MATE9]                  | [Stabilization][VH_STAB] | [press release](https://press.aktietorget.se/ImintImageIntelligence/81808/617501.pdf)                                                                                                                    |
 
 [HUAWEI]: http://consumer.huawei.com/
 [HUAWEI_MATE9]: http://consumer.huawei.com/en/phones/mate9/
@@ -35,6 +36,7 @@ Today the existence of Vidhance software is verified in the following phones:
 [HUAWEI_P10]: http://consumer.huawei.com/en/phones/p10/
 [HUAWEI_P10PLUS]: http://consumer.huawei.com/en/phones/p10-plus/
 [HUAWEI_HONOR9]: http://www.hihonor.com/global/products/mobile-phones/honor9/index.html
+[HUAWEI_P20]: http://consumer.huawei.com/P20‎
 
 [VH_STAB]: http://vidhance.com/solutions/video-stabilization/
 

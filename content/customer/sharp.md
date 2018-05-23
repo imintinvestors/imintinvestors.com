@@ -6,7 +6,9 @@ title: Sharp
 [Sharp] is a multinational electronics manufacturer with Japanese origins. They are today owned by the Chinese OEM Foxconn.
 
 # History
-In April 2017 Imint announced a three year license agreement with Sharp. The [first announcement](http://imint.se/nyheter/20170406-imint-tecknar-trearigt-licensavtal-med-ny-kund/) did not name Sharp but it was later announced in a [second](http://imint.se/nyheter/20170418-imint-avtal-sharp/) press release.
+In April 2017 Imint announced a three year license agreement with Sharp on Video Stabilization. The [first announcement](http://imint.se/nyheter/20170406-imint-tecknar-trearigt-licensavtal-med-ny-kund/) did not name Sharp but it was later announced in a [second](http://imint.se/nyheter/20170418-imint-avtal-sharp/) press release.
+
+On May 16, 2018 Imint [communicated](https://news.cision.com/se/imint/r/imint-utokar-samarbetet-med-sharp,c2518124) that they had signed a extension to their license agreement with Sharp that added the option for Sharp to include non-video stabilization products from Imints portfolio.
 
 # Devices
 
